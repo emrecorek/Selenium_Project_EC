@@ -1,4 +1,4 @@
-package com.cydeo.reviewWithOscar.week05;
+package com.cydeo.liveSession.week05;
 
 import com.cydeo.utilities.ConfigurationReader;
 import com.cydeo.utilities.Driver;

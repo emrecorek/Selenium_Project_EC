@@ -30,7 +30,7 @@ public class WebAppSecurity {
     @AfterMethod
     public void tear_down(){
 
-        Driver.closeBrowser();
+        Driver.closeDriver();
     }
 
 
